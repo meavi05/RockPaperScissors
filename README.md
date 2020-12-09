@@ -22,6 +22,6 @@ The program plays this game between the computer and a real player. You can play
 
 <h2>SetUp</h2>
 1) Checkout the code using
-   git clone git@github.com:meavi05/RockPaperScissors.git
-2) Convert to Java faceted form.
+   git clone git@github.com:meavi05/RockPaperScissors.git\n
+2) Convert to Java faceted form.\n
 3) Run RockPaperScissorsGame.java as java application having main function.
