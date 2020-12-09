@@ -1,8 +1,8 @@
 
-#Introduction
+<h1>Introduction</h1>
 This is the Rock,Paper & Scissors game code. 
 
-##Two Players
+<h2>Two Players</h2>
 1) Real human player
 2) Computer player
 
@@ -20,6 +20,6 @@ The winner is determined by the following schema:
 
 The program plays this game between the computer and a real player. You can play the game as many times as you like before exiting.
 
-##SetUp
-Checkout the code using git@github.com:meavi05/RockPaperScissors.git and convert to Java faceted form.
+<h2>SetUp</h2>
+Checkout the code using link git@github.com:meavi05/RockPaperScissors.git and convert to Java faceted form.
 Then run RockPaperScissorsGame.java as java application having main function.
