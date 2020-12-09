@@ -21,5 +21,8 @@ The winner is determined by the following schema:
 The program plays this game between the computer and a real player. You can play the game as many times as you like before exiting.
 
 <h2>SetUp</h2>
-Checkout the code using link git@github.com:meavi05/RockPaperScissors.git and convert to Java faceted form.
-Then run RockPaperScissorsGame.java as java application having main function.
+1) Checkout the code using<br></br>
+   git clone git@github.com:meavi05/RockPaperScissors.git
+<br></br>
+2) Convert to Java faceted form.<br></br>
+3) Run RockPaperScissorsGame.java as java application having main function.
